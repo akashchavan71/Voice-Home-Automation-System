@@ -21,7 +21,7 @@ Software components
 -	iPhone to deploy/install the application
 
 ## System Architecture
-<img src="images/System%20Architecture.png" width = 300>
+<img src="images/System%20Architecture.png" width = 500>
   
 ## Home-Automation-System 
 To view demo of application click on [YouTube/Home-Automation-System](https://www.youtube.com/watch?v=VtPLDq7by4o).
