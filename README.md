@@ -12,12 +12,13 @@ NeoPixel LEDs as a sensor to demonstrate our idea
 ## Components
 
 Hardware components
-•	RaspberryPi
-•	NodeMCU
-•	NeoPixel LEDs
+-	RaspberryPi
+-	NodeMCU
+-	NeoPixel LEDs
+
 Software components
-•	Xcode, I-OS Speech Recognition API 
-•	iPhone to deploy/install the application
+-	Xcode, I-OS Speech Recognition API 
+-	iPhone to deploy/install the application
 
 ## System Architecture
 
