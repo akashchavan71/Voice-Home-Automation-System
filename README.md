@@ -19,7 +19,9 @@ Software components
 •	Xcode, I-OS Speech Recognition API 
 •	iPhone to deploy/install the application
 
+## System Architecture
 
+![](images/System%20Architecture)
   
- ## Home-Automation-System 
- To view demo of application click on [YouTube/Home-Automation-System](https://www.youtube.com/watch?v=VtPLDq7by4o).
+## Home-Automation-System 
+To view demo of application click on [YouTube/Home-Automation-System](https://www.youtube.com/watch?v=VtPLDq7by4o).
