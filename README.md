@@ -2,7 +2,7 @@
 
 Home Automation System is an application developed to automate home appliances through voice commands.
 
-We are proposing a system which would help everyone to get their old wired devices on to a network and allow them to control them through a mobile app.
+We are proposing a system which would help everyone to get their old wired devices on to a network and allow them to control those devices through a mobile application.
 
 This system uses 
 RaspberryPi which runs the server application
