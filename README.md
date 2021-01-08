@@ -22,7 +22,7 @@ Software components
 
 ## System Architecture
 
-![](images/System%20Architecture)
+![](images/System%20Architecture.png)
   
 ## Home-Automation-System 
 To view demo of application click on [YouTube/Home-Automation-System](https://www.youtube.com/watch?v=VtPLDq7by4o).
